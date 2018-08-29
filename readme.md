@@ -20,7 +20,7 @@
 ## Projects
 
 - [Swagger Code Generation](https://github.com/swagger-api/swagger-codegen)
-
+- [Swagger Include Yaml](https://github.com/javanile/yamlinc)
 
 ## Third-Party-Projects
 
